@@ -14,4 +14,6 @@
 如果配對成功，則會出現成功音效，配對失敗就會有失敗音效
 途中如果想重新遊玩，可以點選左上Game的Restart按鈕，所有牌會更換位置並重新開始遊戲，如果全部配對成功，則會詢問是否重新，點選「是」即可重來
 
+<img width="646" height="687" alt="image" src="https://github.com/user-attachments/assets/34a41d93-32a6-4712-aa84-0b491e7e5fc4" />
+
 <img width="632" height="684" alt="image" src="https://github.com/user-attachments/assets/01dfa90e-809d-4177-8029-6f5d75201a1f" />
